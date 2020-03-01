@@ -18,4 +18,3 @@ I7-DOCS - учебники для ИУ7
 [История Росии - Орлов](https://github.com/Rilord/iu7-docs/blob/istoria/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%20-%20%D0%9E%D1%80%D0%BB%D0%BE%D0%B2.pdf)
 
 
-upd Kirill R
