@@ -3,7 +3,7 @@ I7-DOCS - учебники для ИУ7
 
 История
 -------
-Для скачивания ВЕТКИ ИСТОРИИ используйте:
+Для скачивания ТОЛЬКО ЭТОЙ ВЕТКИ используйте:
 ```bash
 git clone https://github.com/Rilord/iu7-docs.git -b istoria --single-branch
 ```
